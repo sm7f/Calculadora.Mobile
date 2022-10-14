@@ -2,7 +2,7 @@
 
 # **_Meu primeiro App_**
 
-# **_Projeto solicitado pela instituição de ensino superior CEUB/ Desenvolver uma calculadora utilizando Android Studio_** />
+# **Projeto solicitado pela instituição de ensino superior CEUB/ Desenvolver uma calculadora utilizando Android Studio** />
 
 
 ### Foi Utilizado para a aplicação mobile a Linguagem JAVA. Abaixo está o exemplo de como ficou o projeto.  
