@@ -1,9 +1,9 @@
 # Calculadora.Mobile
 
 # **_Meu primeiro App_**
-</div>
+
 # **_Projeto solicitado pela instituição de ensino superior CEUB/ Desenvolver uma calculadora utilizando Android Studio_** />
-<div> 
+
 
 ### Foi Utilizado para a aplicação mobile a Linguagem JAVA. Abaixo está o exemplo de como ficou o projeto.  
 
