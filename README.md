@@ -8,3 +8,5 @@
 ### Foi Utilizado para a aplicação mobile a Linguagem JAVA. Abaixo está o exemplo de como ficou o projeto.  
 
 <img align="center" width="300px" height="700px" src="https://media3.giphy.com/media/ivYhhKvIOaWMHs67zD/giphy.gif?cid=790b7611d7355c6815a28dbef996083ec20839382b9198d3&rid=giphy.gif&ct=g)">
+
+<img align="center" width="300px" height="700px" src="https://media0.giphy.com/media/I6jnzK8BCQzUq3DQ03/giphy.gif">
